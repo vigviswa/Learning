@@ -54,39 +54,8 @@ time.
 **[HAN]**  Sorry about the mess.
 
 
-
+'
 <!-- Awesome Jabba Scene!!!
-```
 
-                                                              `.-::////::-..`                    
-                                                           `:/+++++ooooooo+++/:.                 
-                                                         `-::------://+++/::---:::-`              
-                                                       .:/----::::----------:::::::-.             
-                                                     `:/:--:://////::----:://:://:/::-            
-                                                   `:/---:://++/++++::-----:/::o/+///:-           
-                                                 `:/--:-:::--//:/://----------:+///::---.         
-                                               `.-//:::::---:::::::-----------::::-----:::-`       
-                                             -//o+/----::://:::::/::::/::::+o+/:::::::::::://-`    
-                                             /++yoo///::::--------:ohyyys//syyys+:--:--:/+:/o+/    
-                                            -osyydso::/oyys+//:::///++osyyyyo+++//////+oo+/:+ys-    
-                                          ./syshmNmho///+/oyyyyysssssoo++++osssssysyys+/://+dyo+-   
-                                   ``..-:/+ossydNNNNdo+//++/////+/////:::::://:::/+/::/+//+dysoso`  
-                           `..---:////////oysyssssyyhdho+/+o+///:++++++///////+oo+//++++/. ohso+/:  
-                     ``.-::///////////+++++++++oyyysyhdmyo++ooo+////++ooooooo++///+++++ss  .dhoo+/`
-                 `.-://////////////++++oo++oyoshmmdhyyyhhyo+o+++++++/////////++++++++ohhy-  .oyyso-
-             `-::///////++++////+++++oooooshdddmmddyssssoos+//++++/////++++/////+++++syyy+    .+ys/
-           `-:///++++oo+oo+++++++++oooooooosyhhhhysosoosooo/::/++////++///+//++++++////osy/       `  
-         .:///++ossoossoooooooooooooooooo+oossooooooooooo+:::::::://////////////:::::://os:          
-       .://++oosssyyosssssoooooooooooooooooooooooooooooo/::::::::----::::::::::::::::////o.          
-     .:/++++ossyyyyhyssssssssssssssssossooooooooooooooo/:::::::::::::::::::::::::::://///:           
-   .://+oosssyhddhhhhyyyyyssssssooooooooosssssssssssso///::::::::::::::::::::://////////:            
- -////+ossyyhdmmo/:-..````.-:::////++oo++++oooooooo+////////////////////////////////++-             
-.////++osyyyymy`                       .--///+oooo++++++++///////////+++++++++++++++:`              
--///+++ooyhdm+                                 `.-:/+oo+++++++++++++++++o+++++++++:`                
-.++//++++osyyo`                                      `.-:/+ooooooooooooooooo/:-`                    
- -++++++++oossy`                                            `.----::::--..`                         
- `/ooo+++++oshd-                                                                                   
-  `:+oooooossh/                                                                                   
-     `-/+ooo+-                                                                                    
-```
 End Scene   -->
+'
